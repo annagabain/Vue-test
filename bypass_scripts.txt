@@ -1,0 +1,4 @@
+powershell -ExecutionPolicy Bypass -File script.ps1
+
+source: https://lazyadmin.nl/powershell/running-scripts-is-disabled-on-this-system/
+
